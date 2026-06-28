@@ -1,0 +1,6 @@
+{
+  "name": "1TB File System Memo Pad",
+  "description": "A high-performance memo application that saves directly to your local file system or OPFS, bypassing browser quota limits without using IndexedDB or localStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
